@@ -1,2 +1,0 @@
-Zeile 01: T_04 hinzugefügt auf Gitclone HP
-Zeile 02: T_04 geändert auf Gitumgebung DT
